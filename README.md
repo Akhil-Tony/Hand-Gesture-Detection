@@ -5,8 +5,8 @@ Hand Gesture Detection using mediapipe
 ![Game](https://github.com/Akhil-Tony/Hand-Gesture-Detection/blob/master/preview_g.gif)
 <ul>
   <li>
-Using generating_data.py file you can generate your own training data .. that means there is no need for any data u should download from internet.So you can teach any 
-gesture to your neural network
+    Using generating_data.py file <b> you can generate your own training data </b> .. that means giving u freedom to create whatever gesture u want - there is no need for any external data u should download from internet.So you can teach any 
+gesture to your neural network.
   </li>
   <li>
 Usinig the training_model.py file you can train your model on the training data
