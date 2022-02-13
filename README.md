@@ -1,6 +1,12 @@
 # Hand-Gesture-Detection
 Hand Gesture Detection using mediapipe
-
+<h2>FrameWorks Used</h2>
+<ul>
+  <li>OpenCV</li>
+  <li>MediaPipe</li>
+  <li>Tensorflow</li>
+  <li>Numpy</li>
+  </ul>
 
 ![Game](https://github.com/Akhil-Tony/Hand-Gesture-Detection/blob/master/preview_g.gif)
 <ul>
