@@ -10,7 +10,7 @@ gesture_model = keras.models.Sequential([
     keras.layers.Input(shape=[42]),
     keras.layers.Dense(256,activation='relu'),
     keras.layers.Dense(100,activation='relu'),
-    keras.layers.Dense(1,activation='softmax')
+    keras.layers.Dense(4,activation='softmax')
 ])
 gesture_model.compile(loss='sparse_categorical_crossentropy',optimizer='sgd',metrics=['accuracy'])
 
