@@ -14,6 +14,6 @@ gesture_model = keras.models.Sequential([
 ])
 gesture_model.compile(loss='sparse_categorical_crossentropy',optimizer='sgd',metrics=['accuracy'])
 
-gesture_model.fit(main,labels,validation_split=.2,epochs=2)
+gesture_model.fit(main,labels,validation_split=.2,epochs=30)
 
 gesture_model.save('gesture_model.h5')
