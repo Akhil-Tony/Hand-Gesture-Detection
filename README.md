@@ -1,3 +1,4 @@
+![](https://github.com/Akhil-Tony/Hand-Gesture-Detection/blob/master/preview_g.gif)
 # Hand-Gesture-Detection
 Hand Gesture Detection using mediapipe
 <h2>FrameWorks Used</h2>
@@ -20,5 +21,5 @@ Usinig the training_model.py file you can train your model on the training data
 And finally u can test the generated gesture_model.h5 model (which will be replaced everytime you execute the training_model.py ) using testing.py.
  </ul>
  
-![Game](https://github.com/Akhil-Tony/Hand-Gesture-Detection/blob/master/preview_g.gif)
+
 
